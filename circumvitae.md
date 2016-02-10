@@ -52,12 +52,12 @@ Michael Aquilina
 ---
 
 ### Notable Open-Source Contributions
-* Added ENUM support to `django-mysql` https://github.com/adamchainz/django-mysql/pull/185
+* ENUM support to `django-mysql` https://github.com/adamchainz/django-mysql/pull/185
 * `pass` integration into `synapse launcher`  https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297.
-* Developer and maintainer of `python-tools` for Atom https://atom.io/packages/python-tools
+* Developer and maintainer of `python-tools` package for Atom https://atom.io/packages/python-tools
 * Added skip function decorator to `py.test` https://github.com/pytest-dev/pytest/pull/1040
 * Maintainer of `lifx-cmd` https://github.com/MichaelAquilina/lifx-cmd
-* Added support for moving ImageLayers in `tiled` https://github.com/bjorn/tiled/pull/600
+* Support for moving ImageLayers in `tiled` https://github.com/bjorn/tiled/pull/600
 
 I've also contributed numerous bug fixes and minor improvements to various other open source projects.
 
