@@ -14,7 +14,7 @@ Michael Aquilina
 
 ## About Me
 * Software Engineer with a strong professional and educational background
-* Passionate about the work I do. I take joy and pride in the work I produce
+* Passionate about my work. I take joy and pride in the work I produce
 * Fan and frequent contributer to Open Source projects
 * Goal oriented and can work under pressure with strict deadlines
 * I enjoy the challenge of solving hard and interesting problems
@@ -96,7 +96,7 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 * Experience maintaining numerous SQL Server databases
 * Main Technologies: ASP.NET, C# and SQL
 
-#### Loqus Business Intelligence     (Malta, 2010)
+#### Loqus Business Intelligence (Malta, 2010)
 **Junior Software Developer**
 * Formed part of a small team of 3 developers to develop an online ticket booking system for events
 * Responsible for the Database Design and user front end
