@@ -9,6 +9,7 @@ Michael Aquilina
     Github: https://github.com/michaelaquilina/
     Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
+    LinkedIn: https://www.linkedin.com/in/michael-aquilina-68972b58
 
 
 ## About Me
