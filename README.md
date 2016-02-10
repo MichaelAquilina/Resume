@@ -10,7 +10,7 @@ Michael Aquilina
     Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
 
-### About Me
+## About Me
 * Software Engineer with a strong professional and educational background
 * Passionate about the work I do. I take joy and pride in the work I produce
 * Fan and frequent contributer to Open Source projects
@@ -20,7 +20,7 @@ Michael Aquilina
 
 ---
 
-### Technologies
+## Technologies
 Ordered by familiarity
 * Languages: Python, C#, Java, C, C++, Vala
 * Provisioning: Ansible
@@ -36,7 +36,7 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 ---
 
-### Education
+## Education
 
 #### University of Bristol (2013-2014)
 **M.Sc. Machine Learning, Data Mining and High Performance Computing**
@@ -68,7 +68,7 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 ---
 
-### Work Experience
+## Work Experience
 
 #### YPlan (London, 2014 - 2016)
 **Data Engineer**
@@ -106,7 +106,7 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 ---
 
-### Open-Source Contributions
+## Open-Source Contributions
 * ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
 * `pass` integration for `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
 * Developer and maintainer of `python-tools` package for Atom [(Link)](https://atom.io/packages/python-tools)
