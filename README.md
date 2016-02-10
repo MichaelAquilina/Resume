@@ -11,7 +11,7 @@ Michael Aquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
 
 ### About Me
-* Software Engineer with a strong educational and professional background
+* Software Engineer with a strong professional and educational background
 * Passionate about the work I do. I take joy and pride in the work I produce
 * Fan and frequent contributer to Open Source projects
 * Experience with working towards goals under pressure and with strict deadlines
@@ -21,16 +21,17 @@ Michael Aquilina
 ---
 
 ### Technologies
-* Languages: Python, C#, Java, C, C++, Vala
+* Languages: Python, C#, Java, C, C++, Vala (In order of preference)
 * Provisioning: Ansible
 * Cloud: AWS, Google AppEngine
-* Databases: Strong SQL and database knowledge. Worked with MySQL, Redshift and SQLServer before
+* Databases: Strong SQL and database knowledge. Worked with MySQL, Redshift and SQL Server before
 * Source Control: Git, Mercurial
 * Technologies: Numpy, Pandas, SqlAlchemy, OpenCL, OpenMP, OpenMP, XNA, Django
 
 Good familiarity and experience with various web technologies (HTML, CSS, Javascript)
 
-I am quick to learn new languages and technologies and have often dabbled with other languages such as Go, Rust and Julia out of pure interest.
+I am quick to learn new languages and technologies and have often dabbled with less common languages such as
+Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 ---
 
@@ -49,7 +50,8 @@ I am quick to learn new languages and technologies and have often dabbled with o
     * High Performance / Parallel Computing
     * Autonomous Systems (Evolutionary Algorithms, Reinforcement Learning)
     * Cloud Computing
-* Obtained “HPC Elite” award from a “High Performance Computing” course for producing one of the fastest submitted solutions for 2D Fluid Simulation using OpenMP, OpenMPI and OpenCL
+* Obtained “HPC Elite” award from a “High Performance Computing” course for producing one of the fastest submitted solutions
+  for 2D Fluid Simulation using OpenMP, OpenMPI and OpenCL
 * Developed a Particle Filter System for a Robotics coursework in a team which came first from the entire cohort (100% grade)
 * Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment)
 
@@ -62,6 +64,43 @@ I am quick to learn new languages and technologies and have often dabbled with o
 * Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset
 * Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis)
 * Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University
+
+---
+
+### Work Experience
+
+#### YPlan (London, 2014 - 2016)
+**Data Engineer**
+* Formed part of the Data Science team
+* In charge of leading the engineering focus of the entire team
+* Ensured high code quality through the introduction of automated testing, code reviews and new technologies
+* Provided engineering guidance to the rest of the team
+* Responsible for the Design/Development of the Recommender system used by YPlan to personalise rank results for users based on their historical interest in events
+* Large code contributer to numerous code bases within YPlan
+* Administrator for several databases within the company
+* Main Technologies: Python, SQL, Ansible and AWS technologies
+
+#### Uniblue Systems Ltd. (Malta, 2012 - 2013)
+**Product Software Developer**
+* Worked in team to develop numerous in-house libraries, tools and products for an international audience
+* Also responsible for communicating with Quality Assurance, Product Management and User Experience team
+* Team made use of SCRUM for agile project management
+* Main Technologies: Python, javascript, HTML and CSS
+
+#### Loqus Business Intelligence (Malta, 2011 - 2012)
+**Senior Software Developer**
+* Lead designer and developer for numerous private business solutions
+* Responsible for maintaining a Windows Mobile solution named DispatchIT used by companies within the UK, France, Italy and South Africa
+* Responsible for communicating with international customers to understand requirements and generate designs
+* Responsible for the speed-up of numerous products within the company using profiling tools
+* Experience maintaining numerous SQL Server databases
+* Main Technologies: ASP.NET, C# and SQL
+
+#### Loqus Business Intelligence     (Malta, 2010)
+**Junior Software Developer**
+* Formed part of a small team of 3 developers to develop an online ticket booking system for events
+* Responsible for the Database Design and user front end
+* Main Technologies: C#, Silverlight and SQL
 
 ---
 
@@ -80,43 +119,6 @@ Currently working on
 * Other integrations into synapse such as tomboy notes and chrome bookmarks
 * Ansible Redshift support [(Link)](https://github.com/ansible/ansible-modules-core/pull/2777)
 * Support for multiple responses in the "Responses" library [(Link)](https://github.com/getsentry/responses/pull/101)
-* Personal ansible playbook which I use to synchronise my various ubuntu machines [(Link)]( http://github.com/michaelaquilina/ubuntu-ansible)
+* Personal Ansible playbook which I use to synchronise my various Ubuntu machines [(Link)](https://github.com/michaelaquilina/ubuntu-ansible)
 
-There are a lot of other things that may be of interest to different people. Take a look at my github profile for more details.
-
----
-
-### Work Experience
-
-#### YPlan (London, 2014 - 2016)
-**Data Engineer**
-* Formed part of the Data Science team
-* In charge of leading the engineering focus of the entire team
-* Ensured high code quality through the introduction of automated testing, code reviews and new technologies
-* Provided engineering guidance to the rest of the team
-* Responsible for the Design/Development of the Recommender system used by YPlan to personalise rank results for users based on their historical interest in events
-* Large code contributer to numerous code bases within YPlan
-* Administrator for several databases within the company
-* Heavy use of Python, SQL, Ansible and AWS technologies
-
-#### Uniblue Systems Ltd. (Malta, 2012 - 2013)
-**Product Software Developer**
-* Worked in team to develop numerous in-house libraries, tools and products for an international audience
-* Also responsible for communicating with Quality Assurance, Product Management and User Experience team
-* Team made use of SCRUM for agile project management
-* Heavy use of Python, javascript, HTML and CSS
-
-#### Loqus Business Intelligence (Malta, 2011 - 2012)
-**Senior Software Developer**
-* Lead designer and developer for numerous private business solutions
-* Responsible for maintaining a Windows Mobile solution named DispatchIT used by companies within the UK, France, Italy and South Africa
-* Responsible for communicating with international customers to understand requirements and generate designs
-* Responsible for the speed-up of numerous products within the company using profiling tools
-* Experience maintaining numerous SQL Server databases
-* Heavy use of ASP.NET, C# and SQL
-
-#### Loqus Business Intelligence     (Malta, 2010)
-**Junior Software Developer**
-* Formed part of a small team of 3 developers to develop an online ticket booking system for events
-* Responsible for the Database Design and user front end
-* Heavy use of C#, Silverlight and SQL
+There are a lot of other things that may be of interest to different people. Please take a look at my github profile for more details.
