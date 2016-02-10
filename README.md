@@ -65,7 +65,7 @@ I am quick to learn new languages and technologies and have often dabbled with o
 
 ---
 
-### Notable Open-Source Contributions
+### Open-Source Contributions
 * ENUM support to `django-mysql` https://github.com/adamchainz/django-mysql/pull/185
 * `pass` integration into `synapse launcher`  https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297.
 * Developer and maintainer of `python-tools` package for Atom https://atom.io/packages/python-tools
