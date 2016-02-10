@@ -4,6 +4,8 @@ Michael Aquilina
     London, United Kingdom
     +44 7462798857
 
+    michaelaquilina@gmail.com
+
     Github: https://github.com/michaelaquilina/
     Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
