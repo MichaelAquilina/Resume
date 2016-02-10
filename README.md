@@ -78,7 +78,7 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 * Provided engineering guidance to the rest of the team
 * Responsible for the Design/Development of the Recommender system used by YPlan to personalise rank results for users based on their historical interest in events
 * Large code contributer to numerous code bases within YPlan
-* Administrator for several databases within the company
+* Strong database focus with an administrative role
 * Main Technologies: Python, SQL, Ansible and AWS technologies
 
 #### Uniblue Systems Ltd. (Malta, 2012 - 2013)
