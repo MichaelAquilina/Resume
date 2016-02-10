@@ -72,6 +72,7 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 #### YPlan (London, 2014 - 2016)
 **Data Engineer**
 * Formed part of the Data Science team
+* Agile project management
 * In charge of leading the engineering focus of the entire team
 * Ensured high code quality through the introduction of automated testing, code reviews and new technologies
 * Provided engineering guidance to the rest of the team
