@@ -40,6 +40,7 @@ Michael Aquilina
 * Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment).
 
 
+
     University of Malta (2007-2011)
     B.Sc. (ICT) Computer Science and Artificial Intelligence
 * Second Upper Class
