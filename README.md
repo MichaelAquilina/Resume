@@ -66,10 +66,10 @@ I am quick to learn new languages and technologies and have often dabbled with o
 ---
 
 ### Open-Source Contributions
-* ENUM support to `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
-* `pass` integration into `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
+* ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
+* `pass` integration for `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
 * Developer and maintainer of `python-tools` package for Atom [(Link)](https://atom.io/packages/python-tools)
-* Added skip function decorator to `py.test` [(Link)](https://github.com/pytest-dev/pytest/pull/1040)
+* Skip function decorator for `py.test` [(Link)](https://github.com/pytest-dev/pytest/pull/1040)
 * Maintainer of `lifx-cmd` [(Link)](https://github.com/MichaelAquilina/lifx-cmd)
 * Support for moving ImageLayers in `tiled` [(Link)](https://github.com/bjorn/tiled/pull/600)
 
