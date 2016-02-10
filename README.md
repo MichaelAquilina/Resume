@@ -14,23 +14,24 @@ Michael Aquilina
 * Software Engineer with a strong professional and educational background
 * Passionate about the work I do. I take joy and pride in the work I produce
 * Fan and frequent contributer to Open Source projects
-* Experience with working towards goals under pressure and with strict deadlines
+* Goal oriented and can work under pressure with strict deadlines
 * I enjoy the challenge of solving hard and interesting problems
-* I feel that I am a great people person and find it easy making friends and bonding with team mates
+* I feel that I am a great people person and find it easy making friends and bonding with my peers
 
 ---
 
 ### Technologies
-* Languages: Python, C#, Java, C, C++, Vala (In order of preference)
+Ordered by familiarity
+* Languages: Python, C#, Java, C, C++, Vala
 * Provisioning: Ansible
 * Cloud: AWS, Google AppEngine
 * Databases: Strong SQL and database knowledge. Worked with MySQL, Redshift and SQL Server before
 * Source Control: Git, Mercurial
 * Technologies: Numpy, Pandas, SqlAlchemy, OpenCL, OpenMP, OpenMP, XNA, Django
 
-Good familiarity and experience with various web technologies (HTML, CSS, Javascript)
+Good familiarity and experience with web technologies (HTML, CSS, Javascript)
 
-I am quick to learn new languages and technologies and have often dabbled with less common languages such as
+Quick to learn new languages and technologies and have often dabbled with less common languages such as
 Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 ---
