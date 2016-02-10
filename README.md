@@ -16,7 +16,7 @@ Michael Aquilina
 * Fan and frequent contributer to Open Source projects
 * Experience with working towards goals under pressure and with strict deadlines
 * I enjoy the challenge of solving hard and interesting problems
-* I feel that I am a great people person and find it easy making friends and bonding with team mates.
+* I feel that I am a great people person and find it easy making friends and bonding with team mates
 
 ---
 
@@ -49,19 +49,19 @@ I am quick to learn new languages and technologies and have often dabbled with o
     * High Performance / Parallel Computing
     * Autonomous Systems (Evolutionary Algorithms, Reinforcement Learning)
     * Cloud Computing
-* Obtained “HPC Elite” award from a “High Performance Computing” course for producing one of the fastest submitted solutions for 2D Fluid Simulation using OpenMP, OpenMPI and OpenCL.
+* Obtained “HPC Elite” award from a “High Performance Computing” course for producing one of the fastest submitted solutions for 2D Fluid Simulation using OpenMP, OpenMPI and OpenCL
 * Developed a Particle Filter System for a Robotics coursework in a team which came first from the entire cohort (100% grade)
-* Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment).
+* Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment)
 
 
 #### University of Malta (2007-2011)
 **B.Sc. (ICT) Computer Science and Artificial Intelligence**
 
 * 2nd Upper Class
-* Strong focus on Artificial Intelligence with a solid background in Computer Science.
-* Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset.
-* Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis).
-* Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University.
+* Strong focus on Artificial Intelligence with a solid background in Computer Science
+* Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset
+* Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis)
+* Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University
 
 ---
 
