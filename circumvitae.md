@@ -10,7 +10,7 @@ Michael Aquilina
     Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
 
-#### About Me
+### About Me
 * Software Engineer with a strong educational and professional background
 * Passionate about the work I do. I take joy and pride in the work I produce
 * Fan and frequent contributer to Open Source projects
@@ -20,10 +20,10 @@ Michael Aquilina
 
 ---
 
-#### Education
+### Education
 
-##### University of Bristol (2013-2014)
-M.Sc. Machine Learning, Data Mining and High Performance Computing
+#### University of Bristol (2013-2014)
+**M.Sc. Machine Learning, Data Mining and High Performance Computing**
 * 1st Class Honours
 * Awarded the highest marked dissertation in my cohort for "Predicting Document Interest on Reddit"
 * Strong focus on Machine Learning with work on:
@@ -40,8 +40,8 @@ M.Sc. Machine Learning, Data Mining and High Performance Computing
 * Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment).
 
 
-##### University of Malta (2007-2011)
-B.Sc. (ICT) Computer Science and Artificial Intelligence
+#### University of Malta (2007-2011)
+**B.Sc. (ICT) Computer Science and Artificial Intelligence**
 
 * Second Upper Class
 * Strong focus on Artificial Intelligence with a solid background in Computer Science.
@@ -51,7 +51,7 @@ B.Sc. (ICT) Computer Science and Artificial Intelligence
 
 ---
 
-#### Notable Open-Source Contributions
+### Notable Open-Source Contributions
 * Added ENUM support to `django-mysql` https://github.com/adamchainz/django-mysql/pull/185
 * `pass` integration into `synapse launcher`  https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297.
 * Developer and maintainer of `python-tools` for Atom https://atom.io/packages/python-tools
