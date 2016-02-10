@@ -22,8 +22,8 @@ Michael Aquilina
 
 
 ## Technologies
-Ordered by familiarity
-* Languages: Python, C#, Java, C, C++, Vala
+Experienced knowledge in (Ordered by familiarity):
+* Languages: Python, C#, Java, C, C++
 * Provisioning: Ansible
 * Cloud: AWS, Google AppEngine
 * Databases: Strong SQL and database knowledge. Experience working with MySQL, Redshift and SQL Server
