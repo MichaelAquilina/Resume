@@ -20,11 +20,25 @@ Michael Aquilina
 
 ---
 
+### Technologies
+* Languages: Python, C#, Java, C, C++, Vala
+* Provisioning: Ansible
+* Cloud: AWS, Google AppEngine
+* Databases: Strong SQL and database knowledge. Worked with MySQL, Redshift and SQLServer before
+* Source Control: Git, Mercurial
+* Technologies: Numpy, Pandas, SqlAlchemy, OpenCL, OpenMP, OpenMP, XNA, Django
+
+Good familiarity and experience with various web technologies (HTML, CSS, Javascript)
+
+I am quick to learn new languages and technologies and have often dabbled with other languages such as Go, Rust and Julia out of pure interest.
+
+---
+
 ### Education
 
 #### University of Bristol (2013-2014)
 **M.Sc. Machine Learning, Data Mining and High Performance Computing**
-* 1st Class Honours
+* 1st Class
 * Awarded the highest marked dissertation in my cohort for "Predicting Document Interest on Reddit"
 * Strong focus on Machine Learning with work on:
     * Bioinformatics Algorithms
@@ -43,7 +57,7 @@ Michael Aquilina
 #### University of Malta (2007-2011)
 **B.Sc. (ICT) Computer Science and Artificial Intelligence**
 
-* Second Upper Class
+* 2nd Upper Class
 * Strong focus on Artificial Intelligence with a solid background in Computer Science.
 * Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset.
 * Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis).
