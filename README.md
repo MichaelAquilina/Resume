@@ -76,6 +76,7 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 * Responsible for the Design/Development of the Recommender system used by YPlan to personalise rank results for users based on their historical interest in events
 * Large code contributer to numerous code bases within YPlan
 * Strong database focus with an administrative role
+* Represented YPlan at DjangoUnderTheHood and PyConUK conferences
 * Main Technologies: Python, SQL, Ansible and AWS technologies
 
 #### Uniblue Systems Ltd. (Malta, 2012 - 2013)
