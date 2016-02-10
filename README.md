@@ -85,3 +85,38 @@ Currently working on
 There are a lot of other things that may be of interest to different people. Take a look at my github profile for more details.
 
 ---
+
+### Work Experience
+
+#### YPlan (London, 2014 - 2016)
+**Data Engineer**
+* Formed part of the Data Science team
+* In charge of leading the engineering focus of the entire team
+* Ensured high code quality through the introduction of automated testing, code reviews and new technologies
+* Provided engineering guidance to the rest of the team
+* Responsible for the Design/Development of the Recommender system used by YPlan to personalise rank results for users based on their historical interest in events
+* Large code contributer to numerous code bases within YPlan
+* Administrator for several databases within the company
+* Heavy use of Python, SQL, Ansible and AWS technologies
+
+#### Uniblue Systems Ltd. (Malta, 2012 - 2013)
+**Product Software Developer**
+* Worked in team to develop numerous in-house libraries, tools and products for an international audience
+* Also responsible for communicating with Quality Assurance, Product Management and User Experience team
+* Team made use of SCRUM for agile project management
+* Heavy use of Python, javascript, HTML and CSS
+
+#### Loqus Business Intelligence (Malta, 2011 - 2012)
+**Senior Software Developer**
+* Lead designer and developer for numerous private business solutions
+* Responsible for maintaining a Windows Mobile solution named DispatchIT used by companies within the UK, France, Italy and South Africa
+* Responsible for communicating with international customers to understand requirements and generate designs
+* Responsible for the speed-up of numerous products within the company using profiling tools
+* Experience maintaining numerous SQL Server databases
+* Heavy use of ASP.NET, C# and SQL
+
+#### Loqus Business Intelligence     (Malta, 2010)
+**Junior Software Developer**
+* Formed part of a small team of 3 developers to develop an online ticket booking system for events
+* Responsible for the Database Design and user front end
+* Heavy use of C#, Silverlight and SQL
