@@ -1,5 +1,5 @@
 Michael Aquilina
-----------------
+-----------------
     72b, Anson Road, Willesden Green
     London, United Kingdom
     +44 7462798857
@@ -10,6 +10,7 @@ Michael Aquilina
     Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
 
+
 ## About Me
 * Software Engineer with a strong professional and educational background
 * Passionate about the work I do. I take joy and pride in the work I produce
@@ -18,7 +19,6 @@ Michael Aquilina
 * I enjoy the challenge of solving hard and interesting problems
 * I feel that I am a great people person and find it easy making friends and bonding with my peers
 
----
 
 ## Technologies
 Ordered by familiarity
@@ -34,7 +34,6 @@ Good familiarity and experience with web technologies (HTML, CSS, Javascript)
 Quick to learn new languages and technologies and have often dabbled with less common languages such as
 Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
----
 
 ## Education
 
@@ -56,7 +55,6 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 * Developed a Particle Filter System for a Robotics coursework in a team which came first from the entire cohort (100% grade)
 * Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment)
 
-
 #### University of Malta (2007-2011)
 **B.Sc. (ICT) Computer Science and Artificial Intelligence**
 
@@ -66,7 +64,6 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 * Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis)
 * Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University
 
----
 
 ## Work Experience
 
@@ -104,7 +101,6 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 * Responsible for the Database Design and user front end
 * Main Technologies: C#, Silverlight and SQL
 
----
 
 ## Open-Source Contributions
 * ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
