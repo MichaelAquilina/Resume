@@ -22,10 +22,8 @@ Michael Aquilina
 
 #### Education
 
-````
-University of Bristol (2013-2014)
+##### University of Bristol (2013-2014)
 M.Sc. Machine Learning, Data Mining and High Performance Computing
-````
 * 1st Class Honours
 * Awarded the highest marked dissertation in my cohort for "Predicting Document Interest on Reddit"
 * Strong focus on Machine Learning with work on:
@@ -41,10 +39,10 @@ M.Sc. Machine Learning, Data Mining and High Performance Computing
 * Developed a Particle Filter System for a Robotics coursework in a team which came first from the entire cohort (100% grade)
 * Funded by “MasterIT!” Government Scholarship (Malta Ministry for Education and Employment).
 
-```
-University of Malta (2007-2011)
+
+##### University of Malta (2007-2011)
 B.Sc. (ICT) Computer Science and Artificial Intelligence
-```
+
 * Second Upper Class
 * Strong focus on Artificial Intelligence with a solid background in Computer Science.
 * Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset.
