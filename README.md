@@ -28,7 +28,7 @@ Ordered by familiarity
 * Cloud: AWS, Google AppEngine
 * Databases: Strong SQL and database knowledge. Experience working with MySQL, Redshift and SQL Server
 * Source Control: Git, Mercurial
-* Technologies: Numpy, Pandas, SqlAlchemy, OpenCL, OpenMP, OpenMP, XNA, Django
+* Technologies: Numpy, Pandas, SqlAlchemy, Django, OpenCL, OpenMP, OpenMP, XNA
 
 Good familiarity and experience with web technologies (HTML, CSS, Javascript)
 
