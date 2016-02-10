@@ -25,14 +25,13 @@ Ordered by familiarity
 * Languages: Python, C#, Java, C, C++, Vala
 * Provisioning: Ansible
 * Cloud: AWS, Google AppEngine
-* Databases: Strong SQL and database knowledge. Worked with MySQL, Redshift and SQL Server before
+* Databases: Strong SQL and database knowledge. Experience working with MySQL, Redshift and SQL Server
 * Source Control: Git, Mercurial
 * Technologies: Numpy, Pandas, SqlAlchemy, OpenCL, OpenMP, OpenMP, XNA, Django
 
 Good familiarity and experience with web technologies (HTML, CSS, Javascript)
 
-Quick to learn new languages and technologies and have often dabbled with less common languages such as
-Go, Rust, Coffeescript, Vala and Julia out of pure interest.
+Quick to learn new languages and technologies. Have often dabbled with less common languages such as Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 
 ## Education
@@ -103,6 +102,8 @@ Go, Rust, Coffeescript, Vala and Julia out of pure interest.
 
 
 ## Open-Source Contributions
+
+Notable Contributions
 * ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
 * `pass` integration for `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
 * Developer and maintainer of `python-tools` package for Atom [(Link)](https://atom.io/packages/python-tools)
