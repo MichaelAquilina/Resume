@@ -66,21 +66,21 @@ I am quick to learn new languages and technologies and have often dabbled with o
 ---
 
 ### Open-Source Contributions
-* ENUM support to `django-mysql` https://github.com/adamchainz/django-mysql/pull/185
-* `pass` integration into `synapse launcher`  https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297.
-* Developer and maintainer of `python-tools` package for Atom https://atom.io/packages/python-tools
-* Added skip function decorator to `py.test` https://github.com/pytest-dev/pytest/pull/1040
-* Maintainer of `lifx-cmd` https://github.com/MichaelAquilina/lifx-cmd
-* Support for moving ImageLayers in `tiled` https://github.com/bjorn/tiled/pull/600
+* ENUM support to `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
+* `pass` integration into `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
+* Developer and maintainer of `python-tools` package for Atom [(Link)](https://atom.io/packages/python-tools)
+* Added skip function decorator to `py.test` [(Link)](https://github.com/pytest-dev/pytest/pull/1040)
+* Maintainer of `lifx-cmd` [(Link)](https://github.com/MichaelAquilina/lifx-cmd)
+* Support for moving ImageLayers in `tiled` [(Link)](https://github.com/bjorn/tiled/pull/600)
 
 I've also contributed numerous bug fixes and minor improvements to various other open source projects.
 
 Currently working on
-* Atom PGP file viewer https://github.com/MichaelAquilina/atom-pgp
+* Atom PGP file viewer [(Link)](https://github.com/MichaelAquilina/atom-pgp)
 * Other integrations into synapse such as tomboy notes and chrome bookmarks
-* Ansible Redshift support: https://github.com/ansible/ansible-modules-core/pull/2777
-* Support for multiple responses in the "Responses" library: https://github.com/getsentry/responses/pull/101
-* Personal ansible playbook which I use to synchronise my various ubuntu machines http://github.com/michaelaquilina/ubuntu-ansible
+* Ansible Redshift support [(Link)](https://github.com/ansible/ansible-modules-core/pull/2777)
+* Support for multiple responses in the "Responses" library [(Link)](https://github.com/getsentry/responses/pull/101)
+* Personal ansible playbook which I use to synchronise my various ubuntu machines [(Link)]( http://github.com/michaelaquilina/ubuntu-ansible)
 
 There are a lot of other things that may be of interest to different people. Take a look at my github profile for more details.
 
