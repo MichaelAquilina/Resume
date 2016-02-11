@@ -40,7 +40,7 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 #### University of Bristol (2013-2014)
 **M.Sc. Machine Learning, Data Mining and High Performance Computing**
 * 1st Class
-* Awarded the highest marked dissertation in my cohort for "Predicting Document Interest on Reddit"
+* Awarded the highest marked dissertation in my cohort for “Predicting Document Interest on Reddit”
 * Strong focus on Machine Learning with work on:
     * Bioinformatics Algorithms
     * Computational Genomics
@@ -119,7 +119,7 @@ Currently working on
 * Atom PGP file viewer [(Link)](https://github.com/MichaelAquilina/atom-pgp)
 * Other integrations into synapse such as tomboy notes and chrome bookmarks
 * Ansible Redshift support [(Link)](https://github.com/ansible/ansible-modules-core/pull/2777)
-* Support for multiple responses in the "Responses" library [(Link)](https://github.com/getsentry/responses/pull/101)
+* Support for multiple responses in the ”Responses” library [(Link)](https://github.com/getsentry/responses/pull/101)
 * Personal Ansible playbook which I use to synchronise my various Ubuntu machines [(Link)](https://github.com/michaelaquilina/ubuntu-ansible)
 
 There are a lot of other things that may be of interest to different people. Please take a look at my github profile for more details.
