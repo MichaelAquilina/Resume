@@ -26,9 +26,9 @@ Experienced knowledge in (Ordered by familiarity):
 * Languages: Python, C#, Java, C, C++
 * Provisioning: Ansible
 * Cloud: AWS, Google AppEngine
-* Databases: Strong SQL and database knowledge. Experience working with MySQL, Redshift and SQL Server
+* Databases: Strong SQL and database knowledge. Experience working with MySQL, Postgres, Redshift and SQL Server
 * Source Control: Git, Mercurial
-* Technologies: Numpy, Pandas, SqlAlchemy, Django, OpenCL, OpenMP, OpenMPI, XNA
+* Technologies: Docker, Numpy, Pandas, SqlAlchemy, Django, OpenCL, OpenMP, OpenMPI, XNA
 
 Good familiarity and experience with web technologies (HTML, CSS, Javascript)
 
