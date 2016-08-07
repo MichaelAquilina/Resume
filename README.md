@@ -1,9 +1,5 @@
 Michael Aquilina
 -----------------
-    72b, Anson Road, Willesden Green
-    London, United Kingdom
-    +44 7462798857
-
     michaelaquilina@gmail.com
 
     Github: https://github.com/michaelaquilina/
