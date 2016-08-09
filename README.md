@@ -117,7 +117,6 @@ I've also contributed numerous bug fixes and minor improvements to various other
 
 Currently working on
 * Atom PGP file viewer [(Link)](https://github.com/MichaelAquilina/atom-pgp)
-* Other integrations into synapse such as tomboy notes and chrome bookmarks
 * Ansible Redshift support [(Link)](https://github.com/ansible/ansible-modules-core/pull/2777)
 * Support for multiple responses in the "Responses" library [(Link)](https://github.com/getsentry/responses/pull/101)
 * Personal Ansible playbook which I use to synchronise my various Ubuntu machines [(Link)](https://github.com/michaelaquilina/ubuntu-ansible)
