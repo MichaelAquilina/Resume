@@ -104,6 +104,7 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 Notable Contributions
 * ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
 * Numx Dark Theme for Whatsie [(Link)](https://github.com/Aluxian/Whatsie/pull/194)
+* Add virtualenv segment to zsh agnoster theme [(Link)](https://github.com/agnoster/agnoster-zsh-theme/pull/11)
 * Developer and Maintainer of zsh-autoswitch-virtualenv [(Link)](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv)
 * `pass` integration for `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
 * Tomboy Notes integration for `synapse launcher` [(Link)](https://github.com/MichaelAquilina/synapse-project/pull/1)
