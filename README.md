@@ -3,37 +3,47 @@ Michael Aquilina
     michaelaquilina@gmail.com
 
     Github: https://github.com/michaelaquilina/
-    Bitbucket: https://bitbucket.org/maquilina
     StackExchange: https://stackexchange.com/users/238664/michael-aquilina
     LinkedIn: https://www.linkedin.com/in/michael-aquilina-68972b58
     PGP Key: CF25 BE52 E23E 1070 FE93  D2FC 6360 6673 0B05 6BD1
 
 
 ## About Me
-* Senior Software Engineer with a strong professional and educational background
-* Passionate about my work. I take joy and pride in the work I produce
-* Fan and frequent contributor to Open Source projects
-* Goal oriented and can work under pressure with strict deadlines
-* I enjoy the challenge of solving hard and interesting problems
+* Staff Software Engineer with a strong professional and educational background
+* Passionate about code. I take joy and pride in the work I produce
+* Fan, maintainer and frequent contributor to Open Source projects
+* Professional and Educational experience with Machine Learning
+* I thrive when solving hard and interesting challenges
+* Professional experience and personal interest in software security
 * I feel that I am a great people person and find it easy making friends and bonding with my peers
+* Proud Linux user!
 
 
 ## Technologies
-Experienced knowledge in (Ordered by familiarity):
-* Languages: Python, Shell, Rust, javascript, C#, Java, C
-* Cloud: AWS, Google AppEngine
-* Databases: Strong SQL and database knowledge. Experience working with MySQL, Postgres, Redshift and SQL Server
-* Source Control: Git, Mercurial
-* Technologies: Docker, Django, Ansible
+Experience using (Ordered by familiarity):
+* Languages: Python, Shell, Rust, typescript, C++, Go, C#, Java, C
+* Cloud: AWS, Google Cloud
+* Databases: Strong SQL and database knowledge. Particularly recent experience dealing with optimizing Postgres services
+* Other Technologies: Docker, Django, K8s, Kafka
 * Good familiarity and experience with web technologies (HTML, CSS, Javascript)
-* Personal interest in cyber security systems
 
-Quick to learn new languages and technologies. Have often dabbled with less common languages such as Go, Coffeescript, Vala and Julia out of pure interest.
+Quick to learn new languages and technologies. It is common for me to dig into unfamiliar codebases and languages to contribute quickly.
 
 
 ## Work Experience
 
-#### Lyst (London, 2016 - Present)
+#### Snyk (London, 2019 - Present)
+**Staff Engineer**
+* First 4 years spent as the technical lead for the security intelligence team where I spent my time designing and building various pipelines, automations and tooling for Snyk's leading vulnerability database
+* Currently on the machine learning team which involves integrating AI solutions for internal teams and working on customer facing AI products like AI Fix
+* Often involved in delivering and leading large cross group projects
+* Responsible for introducing Snyk's Python codebase standards still used today (coding guidelines, tooling like mypy, flake8, etc...)
+* experienced Snyk growing from a small scale startup (~100 employees) to the mid/large sized company it is today
+* Notable Languages: Python, Typescript and C++
+* Notable technologies: Django, FastAPI, React, Bazel, Docker, Kubernetes, Helm, Postgres, Kafka, PyTorch
+* Founder and organiser of Snyk's popular monthly boardgames group :)
+
+#### Lyst (London, 2016 - 2019)
 **Senior Engineer**
 * Formed part of the App squad with a strong product focus
 * Lead, designed and developed the Mobile API backend
@@ -90,6 +100,8 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 **M.Sc. Machine Learning, Data Mining and High Performance Computing**
 * 1st Class
 * Awarded the highest marked dissertation in my cohort for "Predicting Document Interest on Reddit"
+    * used Support Vector Machines (SVM) to predict whether web pages would be popular to specified subreddits
+    * used a novel "Bag of Concepts" technique to disambiguate words like "Python" (Snake vs Language) to improve performance
 * Strong focus on Machine Learning with work on:
     * Bioinformatics Algorithms
     * Computational Genomics
@@ -111,30 +123,33 @@ Quick to learn new languages and technologies. Have often dabbled with less comm
 * Strong focus on Artificial Intelligence with a solid background in Computer Science
 * Spent first 2 years also enrolled in a B.Sc Mathematics course which gave me a strong analytical and mathematical mindset
 * Developed a technique for “Automatic Road Extraction from High Resolution Satellite Images” using Artificial Neural Networks and Image Processing techniques (Final Year Project / Thesis)
-* Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University
+* Obtained 2nd Place in the national finals for the Microsoft Imagine Cup hosted by the University of Malta
 
 
 ## Open-Source Contributions
 
-Designer and Maintainer of several popular github projects
+Designer and Maintainer of several reasonably popular open source projects
 
-* [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use)
-* [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv)
+* [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - reminds you that you should use one of your existing aliases for a command you just typed.
+* [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - automatically notify you when long running cli tasks have completed
+* [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - automatically switch python virtualenvs on and off as you move between your directories
 * [S4](https://github.com/MichaelAquilina/S4) - a super fast alternative to Dropbox using Amazon's S3
-* [python-tools](https://github.com/MichaelAquilina/python-tools) atom plugin
-* [lifx-cmd](https://github.com/MichaelAquilina/lifx-cmd) cli utility for LifX bulbs
+* [flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck) - spellcheck words in strings and comments within flake8
+* [tro](https://github.com/MichaelAquilina/tro) - trello command line tool written in rust originally meant for personal use but gained some traction on its own
+* [improved-workspace-indicator](https://github.com/MichaelAquilina/improved-workspace-indicator) - introduces a i3 like workspace indicator to gnome shell
+* [faker-security](https://github.com/snyk/faker-security) - introduces security data generation (e.g. CVSS, CVEs) to Faker in python
 * [More here](https://github.com/MichaelAquilina?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
 
-Contributor to several projects:
+Some examples of contributions to other open source projects:
 
 * Improvements to `zunit` [(Link)](https://github.com/zunit-zsh/zunit/pulls?q=is%3Apr+is%3Aclosed+author%3AMichaelAquilina)
+* Improvements to the `django-stubs` project [(Link)](https://github.com/typeddjango/django-stubs/pulls?q=is%3Apr+author%3AMichaelAquilina+is%3Aclosed)
+* Improvements to `colored-rs` [(Link)](https://github.com/colored-rs/colored/pulls?q=is%3Apr+author%3AMichaelAquilina+is%3Aclosed)
 * Skip function decorator for `py.test` [(Link)](https://github.com/pytest-dev/pytest/pull/1040)
 * Add virtualenv segment to zsh agnoster theme [(Link)](https://github.com/agnoster/agnoster-zsh-theme/pull/11)
 * ENUM support for `django-mysql` [(Link)](https://github.com/adamchainz/django-mysql/pull/185)
 * `pass` integration for `synapse launcher` [(Link)](https://code.launchpad.net/~michaelaquilina/synapse-project/pass-plugin/+merge/281297)
 * Tomboy Notes integration for `synapse launcher` [(Link)](https://github.com/MichaelAquilina/synapse-project/pull/1)
 * Support for moving ImageLayers in `tiled` [(Link)](https://github.com/bjorn/tiled/pull/600)
-
-I've also contributed numerous bug fixes and minor improvements to various other open source projects.
 
 There are a lot of other things that may be of interest to different people. Please take a look at my github profile for more details.
